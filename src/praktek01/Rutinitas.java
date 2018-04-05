@@ -32,5 +32,11 @@ public class Rutinitas {
         Fajar.tahunkerja="2018";
         Fajar.tanggallahir="8 September 1999";
         Fajar.alamat="Martapura";
+        
+        Maisarah.cetakInfo();
+        
+        Syarani.cetakInfo();
+        
+        Fajar.cetakInfo();
     }
 }
