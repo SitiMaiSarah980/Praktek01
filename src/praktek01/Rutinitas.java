@@ -11,6 +11,8 @@ package praktek01;
  */
 public class Rutinitas {
     public static void main(String[] args) {
-        
+        Perawat Maisarah = new Perawat();
+        Perawat Syarani = new Perawat();
+        Perawat Fajar = new Perawat();
     }
 }
